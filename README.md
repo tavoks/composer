@@ -1,2 +1,2 @@
 # composer
-composer pakcage test
+composer package test
