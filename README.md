@@ -1,2 +1,2 @@
-# tavoks composer
+# composer
 composer package test
